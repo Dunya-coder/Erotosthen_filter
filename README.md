@@ -60,7 +60,7 @@ Kod qanday ishlaydi:
 isPrime massiv: Barcha sonlar avval true deb belgilanadi (tub deb qabul qilinadi).
 Filtrlash: 2 dan boshlanadi, har bir tub son uchun uning ko‘paytmalari false deb belgilanadi (tub emas).
 Natija: Tub sonlar ro‘yxatga qo‘shiladi va konsolga chiqariladi.
-Vaqt murakkabligi: 
+* Vaqt murakkabligi: 
 𝑂
 (
 𝑁
@@ -71,7 +71,7 @@ log
 𝑁
 )
 O(NloglogN) — Eratosthen filtri juda samarali algoritmdir.
-Xotira murakkabligi: 
+* Xotira murakkabligi: 
 𝑂
 (
 𝑁
